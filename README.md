@@ -1,0 +1,1 @@
+this pdf viewer is made using pdf.js. you can easily modifies and make changes according to your need. Advantages of this is it can fit into the screen according to the device and support multiple pdf to run on same canvas and also support resize and landscape mode.
